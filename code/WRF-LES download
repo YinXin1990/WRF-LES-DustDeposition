@@ -1,0 +1,2 @@
+WRF-LES/D model used in the study is WRF-Chem version 3.7 model (download at https://www2.mmm.ucar.edu/wrf/users/download/get_sources.html) compiled in LES mode.
+The module_gocart_drydep.F in WRF-Chem is replaced by module_uoc_drydep.F.
